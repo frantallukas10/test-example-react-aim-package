@@ -1,0 +1,25 @@
+.submenu {
+  position: absolute;
+  top: 0px;
+  left: 100%;
+  background: #eee;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  border: 1px solid #bbb;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.submenu-li {
+  padding: 7px 40px;
+  border-bottom: 1px solid #bbb;
+  position: relative;
+  white-space: nowrap;
+  font-family: arial;
+  font-size: 13px;
+  color: #333;
+}
+
+.submenu-li:hover {
+  border: 1px solid red;
+}

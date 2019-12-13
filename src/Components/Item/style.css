@@ -1,0 +1,9 @@
+li {
+  padding: 7px 40px;
+  border-bottom: 1px solid #bbb;
+  position: relative;
+  white-space: nowrap;
+  font-family: arial;
+  font-size: 13px;
+  color: #333;
+}
